@@ -22,3 +22,8 @@ Feel free to explore the project files and documentation. If you have any questi
 -**Languages:** Python
 _**Tools:** Jupyter, Pandas, Numpy, Scikit-Learn
 -**Techniques:** NLP, TF-IDF Vectorization, Machine Learning
+
+## Download the file
+
+You can download the code file by clicking [here] (https://github.com/JPavani11/Airline-Sentiment-Analysis/blob/main/Code/Airline_Sentiment_Analysis_code.json).
+

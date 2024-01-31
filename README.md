@@ -26,5 +26,7 @@ _**Tools:** Jupyter, Pandas, Numpy, Scikit-Learn
 ## Download the file
 
 You can download the code file by clicking [here] (https://github.com/JPavani11/Airline-Sentiment-Analysis/blob/main/Code/Airline_Sentiment_Analysis_code.json).
+
 You can download the report by clicking [here] (https://github.com/JPavani11/Airline-Sentiment-Analysis/blob/main/Docs/Airline%20Sentiment%20Analysis%20Final%20Project%20Work.docx)
 
+You can view the results through a presentation [here] (https://github.com/JPavani11/Airline-Sentiment-Analysis/blob/main/Docs/Powerpoint%20Presentation.pptx)

@@ -11,7 +11,7 @@ Welcome to the repository for my Airline Sentiment Analysis project. Below are k
 
 ## Project Structure
 
--**Check the [Code] folder for the imp-lementation.[C:\Users\ADMIN\Desktop\Github\Airline-Sentiment-Analysis\Code]
+-**Check the [Code] folder for the imp-lementation.(C:\Users\ADMIN\Desktop\Github\Airline-Sentiment-Analysis\Code)
 -**Report:** Airline Sentiment Analysis Final Project Work[C:\Users\ADMIN\Desktop\Github\Airline-Sentiment-Analysis\Docs]
 -**Presentation:** Powerpoint Presentation[C:\Users\ADMIN\Desktop\Github\Airline-Sentiment-Analysis\Docs]
 
